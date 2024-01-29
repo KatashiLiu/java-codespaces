@@ -12,7 +12,7 @@ class Node {
 }
 public class test138 {
     public Node copyRandomList(Node head) {
-        
+        return null;
     }
 }
 
